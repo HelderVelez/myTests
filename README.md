@@ -2,4 +2,5 @@ myTests
 =======
 
 nothing important, 
-testing prose.io to edit in github, it is working !
+testing prose.io [(getting started)](http://prose.io/help/getting-started.html) to edit in github, it is working !
+
